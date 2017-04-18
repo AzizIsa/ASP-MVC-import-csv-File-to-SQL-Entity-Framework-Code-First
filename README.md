@@ -1,0 +1,2 @@
+# ASP-MVC-import-csv-File-to-SQL-Entity-Framework-Code-First
+This is a small web application using ASP.NET (MVC/C#), and JavaScript to import a CSV file for persons details through the interface and save the details in an MSSQL database. It is using the Entity Framework code first to create the database from a class. The application allow data to be viewed, edited and deleted from within the interface and validate all  input.  The CSV file has some errors ,the application is handling this when importing the file.
